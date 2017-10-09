@@ -18,17 +18,11 @@ IT宅男，六年开发经验。
 
 分享是最好的学习！
 
-* 2017.8 开发的共享充电app充充A轮融资5亿。
-* 2016.12-2017.3 开发的工具软件在googlePlay工具榜连续两周排名第一，日均广告收益3000美刀。
-* 2015.3 毕业于北京交通大学
 
 ## 联系我
 
 * GitHub：[ld2006203](https://github.com/ld2006203)
 * email：510655711@qq.com
-* [知乎](https://www.zhihu.com/people/gaohaoyang)
-* [Facebook](https://www.facebook.com/ld2006203)
-* [Twitter](https://twitter.com/ld2006203)
 
 ## 关于本站
 
