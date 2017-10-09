@@ -9,5 +9,5 @@
 
 
 
-## License (感谢模板作者)
+## License
 [MIT License](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md)
